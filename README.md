@@ -2,7 +2,7 @@
 Power and settings, including fan control, power profiles, and temperature monitoring.
 # Asahi Control Center v1.4.4
 
-<img width="2555" height="1528" alt="Screenshot_20261116_015218" src="https://github.com/user-attachments/assets/d09c4d3b-bf01-449b-9c5d-efd4c6edf461" />
+<img width="2559" height="1519" alt="Screenshot_20261116_015557" src="https://github.com/user-attachments/assets/5deca81e-ee7d-40a6-a8dc-26f7a4d34227" />
 
 
 ### Highlights
