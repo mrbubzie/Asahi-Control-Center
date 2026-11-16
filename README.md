@@ -1,6 +1,6 @@
 # Asahi-Control-Center
 Power and settings, including fan control, power profiles, and temperature monitoring.
-# Asahi Control Center v1.4.3
+# Asahi Control Center v1.4.4
 
 <img width="2550" height="1572" alt="Screenshot_20261115_181230" src="https://github.com/user-attachments/assets/9ba4e7f3-3bf2-4ff0-abae-12844f0c7659" />
 
