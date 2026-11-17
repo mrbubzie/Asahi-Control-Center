@@ -1,5 +1,7 @@
 # Asahi Control Center — 2.0 RC1
 
+<img width="2560" height="1536" alt="Screenshot_20261116_230213" src="https://github.com/user-attachments/assets/425033e6-e1d6-4d44-ac3e-1b0f6b4127d8" />
+
 A native Rust/GTK4 control center for Apple Silicon Macs running Asahi Linux. The interface uses the navy, blue-violet and turquoise styling of Asahi Startup Disk.
 
 ## Features
@@ -19,7 +21,10 @@ Hardware controls are capability-dependent. An unsupported sysfs charging thresh
 Requires Rust/Cargo, `pkg-config`, GTK4 development files, and a Linux system. On Gentoo, install the matching development dependencies using Portage before building.
 
 ```sh
-./install.sh
+unzip Asahi-Control-Center-2.0-RC1-final.zip
+cd Asahi-Control-Center-2.0-RC1-final
+chmod +x install.sh to install or chmod +x uninstall.sh to uninstall
+./install.sh to install or ./uninstall.sh to uninstall
 ```
 
 The installer compiles a release binary, installs it to `/usr/local/bin/asahi-control-center`, and installs the desktop entry and bundled icons. Run the application from your launcher or with `asahi-control-center`.
