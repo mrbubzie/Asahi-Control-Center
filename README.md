@@ -1,6 +1,6 @@
-# Asahi Control Center — 2.0 RC1
+# Asahi Control Center — 2.0-Final
 
-<img width="2560" height="1536" alt="Screenshot_20261116_230213" src="https://github.com/user-attachments/assets/425033e6-e1d6-4d44-ac3e-1b0f6b4127d8" />
+<img width="2560" height="1587" alt="Screenshot_20261117_202052" src="https://github.com/user-attachments/assets/dac9c167-7fd2-44e3-abc4-10afc5ee4f14" />
 
 A native Rust/GTK4 control center for Apple Silicon Macs running Asahi Linux. The interface uses the navy, blue-violet and turquoise styling of Asahi Startup Disk.
 
