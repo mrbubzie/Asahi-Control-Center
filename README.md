@@ -52,9 +52,10 @@ The uninstaller removes the installed binary, desktop entry, bundled icons, and 
 
 ## Release information
 
-**Version:** 2.0 RC1 (`2.0.0-rc1` in Cargo)  
+**Version:** 2.0-Final
 **Developer:** Ryan  
 **Framework:** Rust / GTK4
 
 ### Overview icon consistency
-Charging Controls and Live Temperatures now use matching cyan/blue illustrated SVG icons with PNG fallback, alongside Power Profile and System Status.
+- Charging Controls and Live Temperatures now use matching cyan/blue illustrated SVG icons with PNG fallback, alongside Power Profile and System Status.
+- UI refinements and qualify of life improvements.
